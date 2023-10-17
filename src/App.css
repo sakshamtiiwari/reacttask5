@@ -1,0 +1,24 @@
+/* App.css */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Additional styling for your components can be added here */
+
+input{
+  width: 300px;
+}
+button{
+  background-color: rgb(37, 148, 233);
+  color: white;
+  border-radius: 5px;
+  border-color: rgb(37, 148, 233);
+  padding: 5px;
+ /* width: 300px; */
+  /* position: relative; */
+  /* left:50%; */
+}
